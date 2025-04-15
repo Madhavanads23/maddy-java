@@ -1,4 +1,4 @@
-import java.uitl.*;
+import java.util.*;
 public class mad
 {
 public static void main(String args[])
