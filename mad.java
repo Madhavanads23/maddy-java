@@ -1,5 +1,5 @@
 import java.uitl.*;
-class mad
+public class mad
 {
 public static void main(String args[])
   {
